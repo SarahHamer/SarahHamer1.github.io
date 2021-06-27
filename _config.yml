@@ -100,9 +100,9 @@ author:
   location         : "Bremen, Germany"
   email            : "sarah.hamer.official@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "sarah.hamer.official@gmail.com"
+    - # label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: "sarah.hamer.official@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
