@@ -2,8 +2,10 @@
 main:
   - title: "CV"
     url: https://sarahhamer.github.io/SarahHamer/CV
+    description: My life and career, from the beginning till now.
    - title: "About"
      url: https://sarahhamer.github.io/SarahHamer/about
+     description: This is me.
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
